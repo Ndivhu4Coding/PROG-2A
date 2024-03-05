@@ -1,1 +1,1 @@
-this is where part 1 can be found.
+Part 1 is found in the main-branch. Part one is run using visual studio code. In order to engage with code, enter the input via the terminal.
