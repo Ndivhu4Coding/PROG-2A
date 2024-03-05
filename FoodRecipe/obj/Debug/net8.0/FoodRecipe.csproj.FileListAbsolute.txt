@@ -1,0 +1,14 @@
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\bin\Debug\net8.0\FoodRecipe.exe
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\bin\Debug\net8.0\FoodRecipe.deps.json
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\bin\Debug\net8.0\FoodRecipe.runtimeconfig.json
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\bin\Debug\net8.0\FoodRecipe.dll
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\bin\Debug\net8.0\FoodRecipe.pdb
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.AssemblyInfoInputs.cache
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.AssemblyInfo.cs
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.csproj.CoreCompileInputs.cache
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.dll
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\refint\FoodRecipe.dll
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.pdb
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\FoodRecipe.genruntimeconfig.cache
+C:\Users\Konib\OneDrive - ADvTECH Ltd\POE C#\FoodRecipe\obj\Debug\net8.0\ref\FoodRecipe.dll
